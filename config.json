@@ -1,0 +1,28 @@
+{
+    "sql_server": "localhost\\SQLEXPRESS",
+    "odbc_driver": "SQL Server",
+    "database": "DEMOA",
+    "trusted_connection": true,
+    "db_user": "",
+    "db_password": "",
+    "operador_usuario": "ADMIN",
+    "profit_defaults": {
+        "co_lin": "006",
+        "co_subl": "012",
+        "co_cat": "001",
+        "co_color": "001",
+        "co_ubicacion": "ALM",
+        "co_us_in": "001",
+        "co_mone": "USD",
+        "tipo": "V",
+        "tipo_imp": "1",
+        "garantia": "n/a",
+        "co_sucu_in": "01",
+        "co_precio": "01",
+        "alma_precio": "ALM",
+        "unidad_docena": "DOC",
+        "unidad_pieza": "PZA",
+        "factor_docena": 12.0,
+        "factor_unidad": 1.0
+    }
+}
